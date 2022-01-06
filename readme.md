@@ -57,6 +57,7 @@ If you Host your own instance, and call it your own orginal code.
 I will take it down.
 You Have Been Warned.
 Now, if you got permission from me first, then you are fine but It must be done in a public way, I have the right to revoke this.
+This Version is not the main branch and as such, may be not be updated as much, but this is the orginal version of the code.
 
 Thank You,
 JDJG
