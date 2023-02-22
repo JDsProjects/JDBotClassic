@@ -1,4 +1,9 @@
-# Welcome to JDBot
+# Archived
+
+This version is now archived as I don't think the classic version on the JDBot Original would be used anymore.
+This will also not be editable, unless someone wants to pick up from this version of JDBot.
+
+## Welcome to JDBot
 
 The simple easy to use bot that provides a wide range of entertainment and utility for your server.
 Originally meant to be a test bot, this soon grew, and now it's at 90+ servers and verified!
