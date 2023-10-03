@@ -6,28 +6,28 @@ authors = ["JDJG <jdjgbot@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">= 3.10,<4.0.0"
-Flask = "^1.1.2"
-aioimgur = "^0.1.1"
-asuna-api = "^0.2.8"
-async-cse = "^0.3.0"
-asyncdagpi = "^3.3.2"
+Flask = ">=1.1.2"
+aioimgur = ">=0.1.1"
+asuna-api = ">=0.2.8"
+async-cse = ">=0.3.0"
+asyncdagpi = ">=3.3.2"
 sr-api = {git = "https://github.com/iDutchy/sr_api"}
 jishaku = {git = "https://github.com/Gorialis/jishaku"}
-"discordlists.py" = "^1.1.1"
-emoji = "^1.2.0"
-"alexflipnote.py" = "^2.4.0"
-asyncpraw = "^7.3.1"
+"discordlists.py" = ">=1.1.1"
+emoji = ">=1.2.0"
+"alexflipnote.py" = ">=2.4.0"
+asyncpraw = ">=7.3.1"
 tweepy = {git = "https://github.com/tweepy/tweepy.git"}
-topggpy = "^1.1.0"
-autopep8 = "^1.5.7"
-yapf = "^0.31.0"
-CairoSVG = "^2.5.2"
+topggpy = ">=1.1.0"
+autopep8 = ">=1.5.7"
+yapf = ">=0.31.0"
+CairoSVG = ">=2.5.2"
 python-cse = {git = "https://github.com/JDJGInc/python-cse"}
-async-cleverbot = "^0.2.2"
+async-cleverbot = ">=0.2.2"
 aiogifs = {git = "https://github.com/moanie/aiogifs.git", branch = "main"}
-better-profanity = "^0.7.0"
+better-profanity = ">=0.7.0"
 "discord.py" = {git = "https://github.com/JDsProjects/discord.py", branch = "2.0", extras = ["voice", "speed"]}
-async-tio = "^1.1.0"
+async-tio = ">=1.1.0"
 jeyyapi = {git = "https://github.com/JeyyGit/jeyyapi", branch = "main"}
 tabulate = ">=0.8.9"
 asyncpg = ">=0.25.0"
