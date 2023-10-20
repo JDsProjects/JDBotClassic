@@ -1554,7 +1554,7 @@ test = ["urllib3 (<2)", "vcrpy (>=1.10.3)"]
 
 [package.source]
 type = "git"
-url = "https://github.com/tweepy/tweepy"
+url = "https://github.com/tweepy/tweepy.git"
 reference = "HEAD"
 resolved_reference = "f32d12dbddbd877470446657812a10a04292d0c9"
 
@@ -1768,4 +1768,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = ">= 3.10,<4.0.0"
-content-hash = "344015d9aa0d47e286df6f4e6002392cb840c8f2fd50f683a91e19f5056f3aed"
+content-hash = "e1fe043580cfb320f0dcef073645ab409f077f1608ef606b0fad6127ae686d07"
